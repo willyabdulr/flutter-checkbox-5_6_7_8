@@ -17,7 +17,7 @@ class MyApp extends StatefulWidget {
 }
 
 class MyAppState extends State<MyApp> {
-  final List<Widget> _pages = [DashboardPage(), ProfilePage()];
+  final List<Widget> _pages = [DashboardPage(), ProfilePage(), ListPage()];
 
   int currentPage = 0;
 
