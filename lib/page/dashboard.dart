@@ -28,7 +28,7 @@ class DashboardPage extends StatelessWidget {
       "title": "Pertemuan 8",
       "icon": Icons.auto_stories,
       "color": Colors.purple,
-      "page": AutocompleteSpinPage(),
+      "page": AutocompletespinPage(),
     },
   ];
 
